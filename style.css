@@ -1,0 +1,63 @@
+.scroll-container {
+    width: 300px; 
+    height: 400px; 
+    border: 2px solid #ccc; 
+    overflow-y: auto; }
+ 
+  .scroll-container {
+    padding: 10px;
+  }
+   p.solid {
+    
+    border-style: solid;}
+    p.solid {border-style: solid;}
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;}
+
+    header {
+        background-color: goldenrod ;
+        color:#020342;
+        text-align: center;
+        padding: 30px;
+
+       
+    }
+
+    nav {
+        background-color:  #020342; 
+        color: #fff;
+        text-align: center;
+        padding: 0.5em;
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        padding: 1em;
+        margin: 0 1em;
+    }
+    h2{
+        text-align: center;
+        
+    }
+    .contact{
+        text-align: center;
+    }
+
+    section {
+        padding: 2em;
+    }
+    footer{
+        padding:20px;
+        margin: 0;
+        background-color: #020342;
+        color: #f4f4f4;
+    }
+    img{
+         justify-content: center;
+    }
+
+       
